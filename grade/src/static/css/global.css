@@ -1,0 +1,81 @@
+/* font */
+@font-face {
+  font-family: 'iconfont';
+  src: url('../font/iconfont.ttf') format('truetype');
+}
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 40rpx;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-authorization:before {
+  content: "\e62a";
+}
+
+.icon-encourage:before {
+  content: "\e60f";
+}
+
+.icon-package:before {
+  content: "\e690";
+}
+
+.icon-edit:before {
+  content: "\e600";
+}
+
+.icon-good:before {
+  content: "\e602";
+}
+
+.icon-group:before {
+  content: "\e6ef";
+}
+
+.icon-detail:before {
+  content: "\e634";
+}
+
+.icon-about:before {
+  content: "\e613";
+}
+
+.icon-contact:before {
+  content: "\e601";
+}
+
+.icon-paper:before {
+  content: "\e7df";
+}
+
+.icon-move:before {
+  content: "\e642";
+}
+
+.icon-delete:before {
+  content: "\e65b";
+}
+
+/* font end */
+/* ======reset css====== */
+.body{
+  background: #fbfbfb;
+}
+
+.wx-switch-input{
+    background: #bd1550 !important;
+    border: #bd1550 !important; /* 重置开关边框颜色 */
+}
+
+/* ====reset css end==== */
+
+.clear-fix:after {
+  content: "";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}

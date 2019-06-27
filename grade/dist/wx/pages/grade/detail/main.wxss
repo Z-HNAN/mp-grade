@@ -1,0 +1,2 @@
+@import "../../../common/vendor.wxss";
+.detail-box-wrap.list-line-box.data-v-4778718b{margin:26rpx;box-shadow:0 4rpx 8rpx 0 rgba(0,0,0,.2);border-radius:16rpx}.box-item.data-v-4778718b{box-sizing:border-box;width:50%;height:200rpx;float:left}.box-item.data-v-4778718b:nth-child(odd){border-right:1rpx solid #eee}.box-item .input-content.data-v-4778718b{margin-top:-75rpx;margin-left:49%;font-size:40rpx}

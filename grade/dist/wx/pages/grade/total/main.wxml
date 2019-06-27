@@ -1,0 +1,1 @@
+<import src="/pages/grade/total/total.vue.wxml" /><template is="a1eb1c2c" data="{{ ...$root['0'], $root }}"/>

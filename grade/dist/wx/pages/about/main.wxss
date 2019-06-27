@@ -1,0 +1,2 @@
+@import "../../common/vendor.wxss";
+.weui-media-box__desc{color:#999;font-size:26rpx;line-height:1.2;text-indent:2em;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:5}.issue-wrap{margin:50rpx 16rpx 26rpx;height:100rpx;padding:5rpx;box-shadow:0 4rpx 8rpx 0 rgba(0,0,0,.2);border-radius:16rpx;position:relative}.issue-box{text-indent:2em;color:#999;font-size:24rpx}.btn-issue{position:absolute;top:-70rpx;right:0}

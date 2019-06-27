@@ -1,0 +1,19 @@
+<template name="79287d9f"><view class="_div data-v-4f38af1d"><view class="_div data-v-4f38af1d weui-panel"><view class="_div data-v-4f38af1d weui-panel__hd"><view class="_h2 data-v-4f38af1d">操作教程</view></view> <view class="_div data-v-4f38af1d weui-panel__bd"><view class="_div data-v-4f38af1d weui-media-box weui-media-box_text"><view class="_h4 data-v-4f38af1d weui-media-box__title">如何添加成绩</view> <view class="_p data-v-4f38af1d weui-media-box__desc"> 
+          1.点击`+`按钮，
+        </view> <view class="_p data-v-4f38af1d weui-media-box__desc"> 
+          2.根据自己需求，选择简洁/完全模式的成绩输入，
+        </view> <view class="_p data-v-4f38af1d weui-media-box__desc"> 
+          3.点击`确认添加`。 一份试卷就到了你的包中了。
+        </view></view> <view class="_div data-v-4f38af1d weui-media-box weui-media-box_text"><view class="_h4 data-v-4f38af1d weui-media-box__title">如何完善总排名</view> <view class="_p data-v-4f38af1d weui-media-box__desc"> 
+          1.添加好试卷后，在`试卷包`菜单中会自动生成一次考试记录，
+        </view> <view class="_p data-v-4f38af1d weui-media-box__desc"> 
+          2.点击`<label class="_span data-v-4f38af1d iconfont icon-edit"></label>`修改按钮，就可加入此次考试的排名进去。
+        </view> <view class="_p data-v-4f38af1d weui-media-box__desc"> 
+          注意:`未分类`试卷包是不可以修改的，仅仅作为暂时存放试卷的位置。
+        </view></view> <view class="_div data-v-4f38af1d weui-media-box weui-media-box_text"><view class="_h4 data-v-4f38af1d weui-media-box__title">如何删除试卷</view> <view class="_p data-v-4f38af1d weui-media-box__desc"> 
+          1.进入到`试卷包`菜单中，找到试卷旁边的`<label class="_span data-v-4f38af1d iconfont icon-delete"></label>`点击即可。
+        </view></view> <view class="_div data-v-4f38af1d weui-media-box weui-media-box_text"><view class="_h4 data-v-4f38af1d weui-media-box__title">如何删除试卷包</view> <view class="_p data-v-4f38af1d weui-media-box__desc"> 
+          1.进入到`试卷包`菜单中，找到试卷包旁边的`<label class="_span data-v-4f38af1d iconfont icon-delete"></label>`点击即可。
+        </view> <view class="_p data-v-4f38af1d weui-media-box__desc">
+          注意: 如果试卷包中还有考试卷,他们会自动归类到`未分类`考卷包中，点击`<label class="_span data-v-4f38af1d iconfont icon-move"></label>`按钮，可更改其顺序。
+        </view></view> <view class="_div data-v-4f38af1d weui-media-box weui-media-box_text"><view class="_p data-v-4f38af1d weui-media-box__desc"><view bindtap="handleProxy" class="_a data-v-4f38af1d weui-btn weui-btn_plain-primary" data-eventid="{{'0'}}" data-comkey="{{$k}}">查看图文介绍</view> <view bindtap="handleProxy" class="_a data-v-4f38af1d weui-btn weui-btn_primary" data-eventid="{{'1'}}" data-comkey="{{$k}}">查看实例数据</view></view></view></view></view></view></template>

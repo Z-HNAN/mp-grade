@@ -1,0 +1,48 @@
+{
+  "pages": [
+    "pages/preview/tourist/main",
+    "pages/preview/index/main",
+    "pages/home/main",
+    "pages/grade/total/main",
+    "pages/grade/new/main",
+    "pages/grade/update/main",
+    "pages/grade/updatenew/main",
+    "pages/about/main",
+    "pages/guide/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#f8ca00",
+    "navigationBarTitleText": "成绩分析小助手",
+    "navigationBarTextStyle": "black",
+    "backgroundColor": "#fbfbfb"
+  },
+  "tabBar": {
+    "position": "bottom",
+    "selectedColor": "#A87456",
+    "list": [
+      {
+        "pagePath": "pages/preview/index/main",
+        "text": "分析",
+        "iconPath": "/static/tabs/index.png",
+        "selectedIconPath": "/static/tabs/index-active.png"
+      },
+      {
+        "pagePath": "pages/grade/updatenew/main",
+        "text": "试卷包",
+        "iconPath": "/static/tabs/package.png",
+        "selectedIconPath": "/static/tabs/package-active.png"
+      },
+      {
+        "pagePath": "pages/home/main",
+        "text": "我的",
+        "iconPath": "/static/tabs/me.png",
+        "selectedIconPath": "/static/tabs/me-active.png"
+      }
+    ]
+  },
+  "usingComponents": {
+    "image-cropper": "/static/vendor/image-cropper/image-cropper"
+  },
+  "sitemapLocation": "sitemap.json"
+}

@@ -1,0 +1,8 @@
+
+<import src="/components/gradeTotalBox.vue.wxml" /><import src="/components/gradeInputBox.vue.wxml" />
+<import src="/components/updateGradeBox.vue.wxml" />
+<import src="/components/gradeRankBox.vue.wxml" /><import src="/components/gradeTotalBox.vue.wxml" /><import src="/components/gradeRadarBox.vue.wxml" /><import src="/components/gradeDetail.vue.wxml" />
+<import src="/components/gradeLineBox.vue.wxml" /><import src="/components/gradeRankBox.vue.wxml" /><import src="/components/gradeRadarBox.vue.wxml" /><import src="/components/gradeInputBox.vue.wxml" />
+<import src="/components/gradeInputBox.vue.wxml" />
+<import src="/components/gradeCategory.vue.wxml" />
+<import src="/modules/mpvue-echarts/src/echarts.vue.wxml" />
